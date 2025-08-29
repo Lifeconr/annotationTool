@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
+#masked_sentence,Expected Gender,afri_small,Predictions,TOP 1,Top 5,T1 Predicted Gender,T5 Male,T5 Female,T5 Neutral,Wrong,comments 
 
 CSV_PATH = "predictions_new.csv"
 
